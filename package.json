@@ -6,6 +6,8 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-composition-api": "^0.0.3",
+    "unplugin-vue2-script-setup": "^0.9.1"
   }
 }
